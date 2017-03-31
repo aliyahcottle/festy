@@ -1,0 +1,29 @@
+{
+  "name": "festy",
+  "version": "1.0.0",
+  "description": "A festival compilation web application",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aliyahcottle/festy.git"
+  },
+  "keywords": [
+    "music",
+    "festivals",
+    "react"
+  ],
+  "author": "Aliyah Cottle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliyahcottle/festy/issues"
+  },
+  "homepage": "https://github.com/aliyahcottle/festy#readme"
+}
